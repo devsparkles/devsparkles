@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/xmaximin" target="blank"><img src="https://img.shields.io/twitter/follow/xmaximin?logo=twitter&style=for-the-badge" alt="xmaximin" /></a> </p>
 
-- 🔭 I’m currently working on [Lofti app](https://play.google.com/store/apps/details?id=co.lofti.app)
+- 🔭 I am currently working the creation of a dating app for iOS , Android and Web
+
+- I worked on the [Lofti app](https://play.google.com/store/apps/details?id=co.lofti.app) for a year
 
 - 💬 Ask me about **All things Kotlin, Android, web and Mobile with the JVM**
 

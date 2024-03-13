@@ -4,7 +4,8 @@
 <p align="left"> <a href="https://twitter.com/xmaximin" target="blank"><img src="https://img.shields.io/twitter/follow/xmaximin?logo=twitter&style=for-the-badge" alt="xmaximin" /></a> </p>
 
 - 🔭 I am currently working for a client in Guadeloupe for a mobile video CMS
-- I worked on:
+
+I worked on:
 - a video player's layer in the D+ app used by 10M+ people [Discovery plus](https://play.google.com/store/apps/details?id=com.discoveryplus.tv.android&hl=fr&gl=US) 
 - a real estate app with comments, feeds, and chat features, dynamic form [Lofti app](https://play.google.com/store/apps/details?id=co.lofti.app)
 - a mobile CRM app with feeds, dynamic forms, reactive apis 10K people [Sales agent app](https://play.google.com/store/apps/details?id=uk.co.bboxx.salesagent&hl=fr&gl=US)

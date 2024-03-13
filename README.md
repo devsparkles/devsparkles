@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier</h1>
-<h3 align="center">A enthusiast android developer from London</h3>
+<h3 align="center">A enthusiast Android engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsparkles" alt="devsparkles" /></a> </p>
 

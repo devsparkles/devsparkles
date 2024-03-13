@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/xmaximin" target="blank"><img src="https://img.shields.io/twitter/follow/xmaximin?logo=twitter&style=for-the-badge" alt="xmaximin" /></a> </p>
 
-- 🔭 I am currently working for a client in Freelance ( TV sport channel skin layer mobile and android TV app ) with Jetpack Compose
+- 🔭 I am currently working for a client in Guadeloupe for a mobile video CMS
 
 - I worked on the [Lofti app](https://play.google.com/store/apps/details?id=co.lofti.app) for a year
 

@@ -6,10 +6,11 @@
 <p align="left"> <a href="https://twitter.com/xmaximin" target="blank"><img src="https://img.shields.io/twitter/follow/xmaximin?logo=twitter&style=for-the-badge" alt="xmaximin" /></a> </p>
 
 - 🔭 I am currently working for a client in Guadeloupe for a mobile video CMS
+- I worked on a video layer on a big multi module app in an international team at Warner Bros (Eurosport)  [Discovery plus](https://play.google.com/store/apps/details?id=com.discoveryplus.tv.android&hl=fr&gl=US) 
 
-- I worked on the [Lofti app](https://play.google.com/store/apps/details?id=co.lofti.app) for a year
+- I worked on the [Lofti app](https://play.google.com/store/apps/details?id=co.lofti.app) 
 
-- 💬 Ask me about **All things Kotlin, Android, web and Mobile with the JVM**
+- 💬 Ask me about **All things Kotlin, Android**
 
 - 📫 How to reach me **xmaximin@gmail.com**
 

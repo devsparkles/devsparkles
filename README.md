@@ -8,7 +8,7 @@
 - a video player's layer in the D+ app used by 10M+ people [Discovery plus](https://play.google.com/store/apps/details?id=com.discoveryplus.tv.android&hl=fr&gl=US) 
 - a real estate app with comments, feeds, and chat features, dynamic form [Lofti app](https://play.google.com/store/apps/details?id=co.lofti.app)
 - a mobile CRM app with feeds, dynamic forms, reactive apis 10K people [Sales agent app](https://play.google.com/store/apps/details?id=uk.co.bboxx.salesagent&hl=fr&gl=US)
-- a musical event app with braintree, stripe payment used by more than 1M+ people [Sales agent app](https://play.google.com/store/apps/details?id=uk.co.bboxx.salesagent&hl=fr&gl=US)
+- a musical event app with braintree, stripe payment used by more than 1M+ people [Skiddle](https://play.google.com/store/search?q=skiddle&c=apps&hl=fr&gl=US)
 
 - 💬 Ask me about **All things Kotlin, Android**
 

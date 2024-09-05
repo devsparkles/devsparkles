@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/xmaximin" target="blank"><img src="https://img.shields.io/twitter/follow/xmaximin?logo=twitter&style=for-the-badge" alt="xmaximin" /></a> </p>
 
-- 🔭 I am currently working for a client in Guadeloupe for a mobile video CMS
+- 🔭 I am currently working on a personal project
 
 I worked on:
 - a video player's layer in the D+ app used by 10M+ people [Discovery plus](https://play.google.com/store/apps/details?id=com.discoveryplus.tv.android&hl=fr&gl=US) 
